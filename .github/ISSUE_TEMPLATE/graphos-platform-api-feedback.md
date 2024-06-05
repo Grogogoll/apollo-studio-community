@@ -3,7 +3,8 @@ name: GraphOS Platform API Feedback
 about: Template for the community to suggest ideas for how to improve the Apollo GraphOS
   Platform API
 title: GraphOS Platform API Feedback
-labels: GraphOS Platform API
+labels: ''
+assignees: ''
 
 ---
 
